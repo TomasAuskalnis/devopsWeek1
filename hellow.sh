@@ -1,3 +1,2 @@
-Hello DEVOPS week1. Added with ssh auth.
-
-
+echo Hello DEVOPS
+echo Nice to be here
